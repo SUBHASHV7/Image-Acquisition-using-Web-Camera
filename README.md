@@ -42,9 +42,9 @@ Rotate the frame using `cv2.rotate()` and display the output.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
+**Developed By: SUBHASH V**
 
-**Register Number:** 212225240146
+**Register Number: 212224240163**
 
 ## i) Write the Frame as a JPG File
 
